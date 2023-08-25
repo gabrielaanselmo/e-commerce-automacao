@@ -2,7 +2,7 @@
 Documentation     E-commerce - Automação
 Library           SeleniumLibrary
 Resource          ./shared/setup.robot
-Resource          ./pages/swag.robot
+Resource          ./pages/e-commerce.robot
 
 *** Test Cases ***
 Acessando o Swag Labs - E-commerce e fazendo login
